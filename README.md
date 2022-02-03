@@ -1,4 +1,4 @@
-Tick Tac Tow Game.  For teaching and learning.
+Tic-Tac-Toe Game.  For teaching and learning.
 
     Make a move: c2
      
